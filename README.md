@@ -1,4 +1,4 @@
-- 👋 Hello everyone, my name is Alexandre Afonso (23) and I'm a Game Developer / Programmer from Porto, Portugal!
+- 👋 Hello everyone, my name is Alexandre Afonso and I'm a Game Developer / Programmer from Porto, Portugal!
 
 - 👀 I have a huge interest in Game Development (Every type, genre, style, really everything), Virtual Reality, 3D Modeling, and Animation.
  
@@ -9,24 +9,15 @@
 - 💡 I consider myself a creative and original person, and one of my best qualities is finding unusual approaches to problems.
  
 - 🌱 We are always learning, but more than that, we are constantly growing and improving our already-owned skills! 
-- 🌱 Currently improving my Virtual Reality, Unity, C#, Modelling and Animation skills.
-- 🌱 Currently learning about Mobile Gaming, Unreal Engine, and Augmented Reality.
+- 🌱 Currently improving my Virtual Reality and UI skills.
+- 🌱 Currently learning about Mobile Gaming, Unreal Engine, and Artificial Intelligence.
  
 - ⛔️ I have no interest in NFTs, online gambling, or anything related to both.
  
 - 💻 Already worked as System Analyst, as Solo Indie Developer, as Game Developer and as a Unity Developer.
-- 💻 I have a preference (and experience) for remote work.
+- 💻 I have preference for, and more experience in, for remote work.
 
-- 🎮 Already released a game on Steam: https://store.steampowered.com/app/1945010/Achievement_Cage/
-- 🎮 Working in a good portefolio.
-
-- 🪆 A little about me:
-- 🍫 I have a chocolate addiction, and it's almost Christmas 🥹 
-- 🎧 Music, the most constant thing in my life, it's the only competition to games. I'm not very good but I learned piano and guitar alone!
-- 🦸🏽 I love Marvel, DC, Anime, and basically everything that comes from letting your imagination go wild!
-- 🥋 I practice Taewkwondo (sadly stopped for a while).
-- 🐶 I love dogs, specially mine!
-- 🤨 I don't actually like to use emojis, but I liked the result in here.
+- 🎮 Already released a 2 day gamejam project on Steam some years back: https://store.steampowered.com/app/1945010/Achievement_Cage/
 
 - 🤝🏽 If you are interested in working with me schedule a meeting through the link below, we will handle everything else in the meeting.
 
