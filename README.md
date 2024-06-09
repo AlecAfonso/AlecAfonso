@@ -8,14 +8,11 @@
  
 - 💡 I consider myself a creative and original person, and one of my best qualities is finding unusual approaches to problems.
  
-- 🌱 We are always learning, but more than that, we are constantly growing and improving our already-owned skills! 
 - 🌱 Currently improving my Virtual Reality and UI skills.
 - 🌱 Currently learning about Mobile Gaming, Unreal Engine, and Artificial Intelligence.
  
-- ⛔️ I have no interest in NFTs, online gambling, or anything related to both.
- 
-- 💻 Already worked as System Analyst, as Solo Indie Developer, as Game Developer and as a Unity Developer.
-- 💻 I have preference for, and more experience in, for remote work.
+- 💻 Experience as System Analyst, Solo Indie Developer, Game Developer and as Unity Developer.
+- 💻 I have preference in remote work.
 
 - 🎮 Already released a 2 day gamejam project on Steam some years back: https://store.steampowered.com/app/1945010/Achievement_Cage/
 
