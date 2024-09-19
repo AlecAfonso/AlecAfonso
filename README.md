@@ -11,10 +11,12 @@
 - 🌱 Currently improving my Virtual Reality and UI skills.
 - 🌱 Currently learning about Mobile Gaming, Unreal Engine, and Artificial Intelligence.
  
-- 💻 Experience as System Analyst, Solo Indie Developer, Game Developer and as Unity Developer.
+- 💻 Experience as Unreal Gameplay Enginner, Unity Developer and System Analyst.
 - 💻 I have preference in remote work.
 
-- 🎮 Already released a 2 day gamejam project on Steam some years back: https://store.steampowered.com/app/1945010/Achievement_Cage/
+- 🎮 Unreal Gameplay Engineer in: https://www.todaythegame.com
+- 🎮 Unity Developer in: https://store.steampowered.com/app/2473820/Movierooms__Cinema_Management/
+- 🎮 Already released a 3 day gamejam project on Steam some years back: https://store.steampowered.com/app/1945010/Achievement_Cage/
 
 - 🤝🏽 If you are interested in working with me schedule a meeting through the link below, we will handle everything else in the meeting.
 
